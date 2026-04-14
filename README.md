@@ -7,12 +7,9 @@ Varna, Bulgaria · ORCID: [0009-0005-7752-3349](https://orcid.org/0009-0005-7752
 
 ## 📄 Download
 
-| Version | File | Purpose |
-|---|---|---|
-| **Standard CV** | [Anton_Dimitrov_AI_Cybersecurity_Engineer_CV.pdf](./Anton_Dimitrov_AI_Cybersecurity_Engineer_CV.pdf) | Applications, print |
-| **LinkedIn-style** | [Anton_Dimitrov_AI_Cybersecurity_Engineer_CV_LinkedIn.pdf](./Anton_Dimitrov_AI_Cybersecurity_Engineer_CV_LinkedIn.pdf) | Online profile, networking |
+**[Anton_Dimitrov_AI_Cybersecurity_Engineer_CV_LinkedIn.pdf](./Anton_Dimitrov_AI_Cybersecurity_Engineer_CV_LinkedIn.pdf)**
 
-Both versions are in **English**.
+LinkedIn-style CV in English — suitable for online profiles, networking, and applications.
 
 ---
 
@@ -52,4 +49,4 @@ Cybersecurity professional and AI Red Teamer specializing in adversarial testing
 
 ---
 
-*This repository mirrors my CV PDFs for easy sharing. Last updated: April 2026.*
+*Last updated: April 2026.*
